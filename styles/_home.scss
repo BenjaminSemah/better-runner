@@ -11,7 +11,7 @@
 }
 
 #header.sticky {
-  background: linear-gradient(#458ff6, #ddd);
+  background: linear-gradient(#0a5, #ddd);
   box-shadow: 3px 3px 50px rgba(0, 0, 0, 0.3);
 }
 
@@ -353,7 +353,7 @@ nav {
   padding: 3rem;
   width: 70%;
   height: 400px;
-  background: linear-gradient(208.18deg, #67c3f3 9.05%, #5a98f2 76.74%);
+  background: linear-gradient(208.18deg, #0a5 9.05%, rgb(97, 247, 172) 76.74%);
   border-radius: 24px;
 
   .what-content {
@@ -491,7 +491,7 @@ nav {
 }
 
 #article .article-content .card-container .card .card-text a {
-  color: #4089ed;
+  color: #0a5;
 }
 #article .article-content .card-container .card .card-text a i {
   margin-left: 0.3rem;
@@ -527,7 +527,7 @@ nav {
 
 #footer {
   position: relative;
-  background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
+  background: linear-gradient(183.41deg, #0a5 -8.57%, rgb(113, 243, 178) 82.96%);
   padding: 2rem;
   margin-top: 5rem;
   padding-top: 6rem;
@@ -611,7 +611,7 @@ nav {
 }
 
 #footer a:hover {
-  color: #4089ed;
+  color: #0a5;
 }
 
 .footer-short-dots {
@@ -630,7 +630,7 @@ nav {
   position: absolute;
   width: 40px;
   height: 40px;
-  border: 3px dotted #3a74d1;
+  border: 3px dotted #0a5;
   z-index: -1;
   display: none;
 }
@@ -644,8 +644,8 @@ nav {
 }
 
 #footer .footer-text a {
-  color: #c1c2df;
-  text-align: center;
+  color: white;
+  // text-align: center;
   transition: all 0.3s ease-in-out;
 }
 

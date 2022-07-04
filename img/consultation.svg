@@ -12,32 +12,32 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear" x1="4.07698" y1="45.0301" x2="67.3445" y2="50.4539" gradientUnits="userSpaceOnUse">
-<stop stop-color="#6CBCFC"/>
-<stop offset="1" stop-color="#458DFC"/>
+<stop stop-color="#0A5"/>
+<stop offset="1" stop-color="#0A5"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="18.6708" y1="19.2924" x2="48.4654" y2="34.6685" gradientUnits="userSpaceOnUse">
-<stop stop-color="#B0F4FF"/>
-<stop offset="0.0856277" stop-color="#A3F0FE"/>
-<stop offset="0.2972" stop-color="#8AE7FD"/>
-<stop offset="0.5161" stop-color="#77E1FD"/>
-<stop offset="0.7451" stop-color="#6DDDFC"/>
-<stop offset="1" stop-color="#69DCFC"/>
+<stop stop-color="#0A5"/>
+<stop offset="0.0856277" stop-color="#0A5"/>
+<stop offset="0.2972" stop-color="#0A5"/>
+<stop offset="0.5161" stop-color="#0A5"/>
+<stop offset="0.7451" stop-color="#0A5"/>
+<stop offset="1" stop-color="#0A5"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="54.8137" y1="49.257" x2="12.4813" y2="49.257" gradientUnits="userSpaceOnUse">
-<stop stop-color="#6CBCFC"/>
-<stop offset="1" stop-color="#458DFC"/>
+<stop stop-color="#0A5"/>
+<stop offset="1" stop-color="#0A5"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="47.6026" y1="59.5877" x2="12.4813" y2="59.5877" gradientUnits="userSpaceOnUse">
-<stop stop-color="#6CBCFC"/>
-<stop offset="1" stop-color="#458DFC"/>
+<stop stop-color="#0A5"/>
+<stop offset="1" stop-color="#0A5"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="41.2336" y1="65.7799" x2="12.4813" y2="65.7799" gradientUnits="userSpaceOnUse">
-<stop stop-color="#6CBCFC"/>
-<stop offset="1" stop-color="#458DFC"/>
+<stop stop-color="#0A5"/>
+<stop offset="1" stop-color="#0A5"/>
 </linearGradient>
 <linearGradient id="paint5_linear" x1="44.6574" y1="71.5124" x2="12.4813" y2="71.5124" gradientUnits="userSpaceOnUse">
-<stop stop-color="#6CBCFC"/>
-<stop offset="1" stop-color="#458DFC"/>
+<stop stop-color="#0A5"/>
+<stop offset="1" stop-color="#0A5"/>
 </linearGradient>
 <clipPath id="clip0">
 <rect width="67.2917" height="95" fill="white"/>
