@@ -1,10 +1,13 @@
 @media screen and (max-width: 1330px) {
   #showcase {
     top: 130px;
+
     .showcase-content {
-      grid-gap: 0rem 2rem;
+      grid-gap: 0 2rem;
+
       .showcase-text {
         width: 100%;
+
         h1 {
           width: 100%;
         }
@@ -33,6 +36,7 @@
   #header {
     padding-left: 1rem;
   }
+
   #showcase {
     width: 90%;
   }
@@ -95,11 +99,10 @@
 }
 
 @media screen and (max-width: 998px) {
-
-
   #showcase .showcase-content .showcase-text h1 {
     font-size: 35px;
   }
+
   #showcase .showcase-content .showcase-text h4 {
     font-size: 18px;
   }
@@ -111,21 +114,26 @@
       h4 {
         width: 100%;
       }
+
       .card-container {
         grid-template-columns: repeat(2, 1fr);
       }
     }
   }
+
   #leading {
     margin-top: 9rem;
+
     .leading-content {
       grid-template-columns: 100%;
 
       .leading-text {
         margin-left: 0;
+
         h1 {
           margin-bottom: 0;
         }
+
         h4 {
           margin-bottom: 2rem;
         }
@@ -136,8 +144,10 @@
       // }
     }
   }
+
   #download {
     margin-top: 9rem;
+
     .download-content {
       grid-template-columns: 100%;
 
@@ -145,6 +155,7 @@
         h1 {
           margin-bottom: 0;
         }
+
         h4 {
           margin-bottom: 2rem;
         }
@@ -161,6 +172,7 @@
       .what-edward {
         grid-template-columns: 100%;
         text-align: center;
+
         .edward-pic {
           display: none;
         }
@@ -172,6 +184,7 @@
 @media screen and (max-width: 880px) {
   #showcase .showcase-content {
     grid-template-columns: 100%;
+
     .showcase-text {
       width: 100%;
       text-align: center;
@@ -182,10 +195,12 @@
       }
     }
   }
+
   #showcase .showcase-content .showcase-text h1 {
     width: 100%;
     margin-bottom: 2rem;
   }
+
   #showcase .showcase-content .showcase-text a {
     width: 60%;
   }
@@ -218,6 +233,7 @@
 
   #footer .footer-container {
     width: 100%;
+
     .footer-content {
       display: grid;
       grid-template-columns: 100%;
@@ -304,15 +320,19 @@
   .nav-links li:nth-child(1) {
     transition: all 0.5s ease 0.2s;
   }
+
   .nav-links li:nth-child(2) {
     transition: all 0.5s ease 0.4s;
   }
+
   .nav-links li:nth-child(3) {
     transition: all 0.5s ease 0.6s;
   }
+
   .nav-links li:nth-child(4) {
     transition: all 0.5s ease 0.8s;
   }
+
   .nav-links li:nth-child(5) {
     transition: all 0.5s ease 1s;
   }
@@ -339,6 +359,7 @@
   #what {
     padding: 2rem;
     height: 100%;
+
     .what-content {
       h1 {
         width: 100%;
@@ -369,10 +390,11 @@
     font-size: 30px;
     margin-bottom: 1rem;
   }
+
   #services .services-content h4 {
     text-align: center;
     font-size: 16px;
-    margin-top: 0rem;
+    margin-top: 0;
     line-height: auto;
     width: 100%;
   }
@@ -389,6 +411,7 @@
   #leading {
     width: 85%;
     margin-top: 2rem;
+
     .leading-content {
       .leading-text h1 {
         font-size: 22px;
@@ -396,7 +419,7 @@
         width: 100%;
         color: #000;
         // mix-blend-mode: normal;
-        margin-bottom: 0rem;
+        margin-bottom: 0;
       }
 
       .leading-text h4 {
@@ -405,7 +428,7 @@
         color: #7d7987;
         width: 100%;
         margin-bottom: 2rem;
-        margin-top: 0rem;
+        margin-top: 0;
       }
     }
 
@@ -417,7 +440,8 @@
 
   #download {
     width: 85%;
-    margin-top: 0rem;
+    margin-top: 0;
+
     .download-content {
       .download-text h1 {
         font-size: 22px;
@@ -425,7 +449,7 @@
         width: 100%;
         color: #000;
         // mix-blend-mode: normal;
-        margin-bottom: 0rem;
+        margin-bottom: 0;
       }
 
       .download-text h4 {
@@ -434,7 +458,7 @@
         color: #7d7987;
         width: 100%;
         margin-bottom: 2rem;
-        margin-top: 0rem;
+        margin-top: 0;
       }
     }
 
@@ -483,6 +507,7 @@
     .footer-region {
       margin-top: -1rem;
     }
+
     .footer-logo {
       h3 {
         // margin: 0.5rem 0rem 2rem 0rem;
@@ -490,6 +515,7 @@
         line-height: auto;
         width: 100%;
       }
+
       h4 {
         display: none;
       }
